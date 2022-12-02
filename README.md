@@ -1,4 +1,4 @@
-# Python-Stock-and-Revenue-Webscraping-Project
+# Python Stock and Revenue Webscraping Project
 
 For this project, I will roleplay as a Data Analyst working for a new startup investment firm that helps customers invest their money in stocks.
 My task is to extract data such as historical share price and quarterly revenue reportings financial data from various sources using Python libraries
